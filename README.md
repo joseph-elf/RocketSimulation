@@ -4,6 +4,5 @@ This is only a test and results aren't physically signifiant.
 
 Here you can see the result : 
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/joseph-elf/RocketSimulation/example.mp4" type="video/mp4">
-</video>
+https://github.com/joseph-elf/RocketSimulation/assets/61538081/0f7371f2-5518-4c88-9773-caf3867248c6
+
